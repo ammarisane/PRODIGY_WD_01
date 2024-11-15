@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="firstpage.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div class="menubar">
+      <a href="#"><img src="images__1_-removebg-preview.png" alt="" /></a>
+      <ul>
+        <a href="#"
+          ><li>About the Epic <i class="fa-solid fa-angle-down"></i></a>
+           <div class="dropdown">
+            <ul>
+              <li><a href="#">Epos Education Rotterdam Foundation</a></li>
+              <li><a href="#">Our school</a></li>
+              <li><a href="#">After school activities</a></li>
+              <li><a href="#">Our team</a></li>
+              <li><a href="#">The school building</a></li>
+              <li><a href="#">Partners</a></li>
+              
+            </ul>
+           </div>
+            </li>
+
+        <a href="#"
+          ><li>Education <i class="fa-solid fa-angle-down"></i>
+          </a> 
+          <div class="dropdown1">
+            <ul>
+              <li><a href="#">Our education</a></li>
+              <li><a href="#">Team teaching</a></li>
+              <li><a href="#">School rules</a></li>
+              <li><a href="#">Peaceful school</a></li>
+              
+              
+            </ul>
+           </div>
+        </li>
+        <a href="#">
+         
+          <li>Practical information <i class="fa-solid fa-angle-down"></i></a>
+            <div class="dropdown2">
+              <ul>
+            <li><a href="#">School guide</a></li>
+            <li><a href="#">School hours</a></li>
+            <li><a href="#">Leave and absence </a></li>
+            <li><a href="#">Protocols</a></li>
+          </ul>
+          </div>
+            </li>
+        <a href="#"><li>Parents <i class="fa-solid fa-angle-down"></i></a>
+            <div class="dropdown3">
+              <ul>
+                <li><a href="#">New parents</a></li>
+                <li><a href="#">Explanation of registration</a></li>
+                <li><a href="#">Student care </a></li>
+                <li><a href="#">Students fees</a></li>
+                <li><a href="#">Newsletter</a></li>
+              </ul>
+            </div>
+          </li>
+         
+        <a href="#">
+          <li>Working at the Epos </a></li>
+          
+          
+        <a href="#"
+          ><li>Facade artwork </a></li>
+        
+      </ul>
+    </div>
+    <div class="content">
+<h1>Epos Education Rotterdam Foundation</h1>
+    </div>
+    <div class="content1">
+      <p>Primary school Het Epos falls under the foundation Epos Onderwijs Rotterdam. Stichting Epos Onderwijs Rotterdam is a unique educational organization with core values ​​of happiness, growth, achievement, perseverance, curiosity and community. With a social objective, and financed by private resources, we have a dream: we want to offer the best possible education to children who need it most. We believe that children can achieve much more with the right support.</p>
+    <p id="para">The dot on the horizon for the EOR is to realize an integrated educational offer for all children in the Rotterdam district, Zuidwijk. In addition to primary school Het Epos, EOR consists of an after-school offer, Zuidwijs (weekend offer) and EOR is working on an open preschool.
+
+    </p>
+    </div>
+    <div class="content2">
+      <h2>EOR Board</h2>
+      <p>Stichting Epos Onderwijs Rotterdam has a board. This board is closely involved in our projects on a voluntary basis and has overall final responsibility for the projects, including Basisschool Het Epos and Zuidwijs.</p>
+    </div>
+    <div class="content3">
+      <img src="Logo-Zuidwijs-met-achtergrond-640x452.png" alt="">
+      <div class="south">
+        <h4>Southwise</h4><br>
+        <p>Zuidwijs is a place where free, fun and educational activities are offered in the weekend. Zuidwijs is for children from group 1 to 4, who go to primary school in Zuidwijk. These activities are in series of lessons of several Saturdays. The lesson times are from 10.00 - 11.00  and from 11.15 - 12.15.</p>
+<br><p>Children can discover their talents, meet other children from the neighbourhood and work on increasing their self-confidence. The offer is tailored to the needs of children, is challenging and divided into the pillars: culture, education, technology and sports.</p>     
+<br><p>Zuidwijs is a collaboration between the four primary schools in Zuidwijk (Primary school Christophoor, Steven Stemerdingschool, OBS De Toermalijn and Primary school Het Epos). In the coming years, Zuidwijs will continue to grow and we will organize free activities for children from Zuidwijk.</p>      
+<button> <a href="#">More information about Zuidwijks </a><i class="fa-thin fa-arrow-right"></i></a></button>
+</div>
+
+    </div>
+    <div class="content4">
+      <h2>The 2021 annual figures</h2>
+      <p>2021 in figures: the fact sheet presents figures that are central to <br> the Epos Onderwijs Rotterdam foundation in 2021.</p>
+<button><a href="#">Check out the factsheet!</a><i class="fa-thin fa-arrow-right"></i></button>    
+</div>
+<div class="contain5">
+  <div class="image1">
+    <a href="">
+      <img src="25_Het_Epos_©Ossip-job-dura-prijs-640x451.png" alt="" />
+      <p>About The Epic</p></a
+    >
+  </div>
+  <div class="image2">
+    <a href=""
+      ><img src="P5-verteltafel-640x427.png" alt="" />
+      <p>Getting to know each other</p></a
+    >
+  </div>
+  <div class="image3">
+    <a href="">
+      <img src="Ons-onderwijs-480x640.png" alt="" />
+      <p>Our education</p></a
+    >
+  </div>
+  <div class="image4">
+    <a href="">
+      <img src="Ontwerp-zonder-titel-4-1.png" alt="" />
+      <p>School guide</p></a
+    >
+  </div>
+</div>
+<footer>
+  <div class="primary">
+    <img id="basic" src="Capture-removebg-preview (1).png" alt="" />
+    <p>
+      Primary school Het Epos Harkulo 31 <br />
+      3085 MH Rotterdam
+    </p>
+    <p id="info">010 - 740 2400 info@eposonderwijs.nl</p>
+    <img id="fb" src="Facebook-e1664964198812.png" alt="" />
+    <img id="insta" src="Instagram-e1664964224404 (1).png" alt="" />
+  </div>
+  <div class="list1">
+    <ul>
+      About the Epic
+      <a href="#"><li>Epos Education</li></a>
+      <a href="#"><li>Rotterdam Foundation</li></a>
+      <a href="#"><li>Our school</li></a>
+      <a href="#"><li>After school activities</li></a>
+      <a href="#"><li>Our team</li></a>
+      <a href=""> <li>The school building</li></a>
+      <a href="#"><li>Partners</li></a>
+    </ul>
+  </div>
+  <div class="list2">
+    <ul>
+      Education
+      <a href="#"> <li>Our education</li></a>
+      <a href="#"> <li>Team teaching</li></a>
+      <a href="#"> <li>School rules</li></a>
+      <a href="#"><li>Peaceful school</li></a>
+    </ul>
+  </div>
+  <div class="list3">
+    <ul>
+      Practical information
+      <a href="#"> <li>School guide</li></a>
+      <a href="#"> <li>School rules</li></a>
+      <a href="#"> <li>Leave and absence</li></a>
+      <a href="#"> <li>Protocols</li></a>
+    </ul>
+  </div>
+  <div class="list4">
+    <ul>
+      Parents
+      <a href="#"><li>New parents</li></a>
+      <a href="#"
+        ><li>Explanation of <br />registration</li></a
+      >
+      <a href="#"><li>Students care</li></a>
+      <a href="#"><li>Students fees</li></a>
+      <a href="#"><li>Newsletter</li></a>
+    </ul>
+  </div>
+  <p id="Working">Working at The Epos</p>
+  <p id="art">Facade artwork</p>
+  <div class="list5">
+    <ul>
+      <li>Epos Education Rotterdam © 2019</li>
+      <li>Complaints Procedure</li>
+      <li>Privacy Policy</li>
+      <li>Disclaimer</li>
+      <li>Design Evers + de Gier | Development Tabs & Spaces</li>
+    </ul>
+    <img src="Capture-removebg-preview.png" alt="" />
+  </div>
+</footer>
+  </body>
+</html>
